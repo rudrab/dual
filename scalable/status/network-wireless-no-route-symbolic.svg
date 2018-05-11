@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg4147"
+   version="1.1"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="network-wireless-no-route-symbolic.svg">
+  <defs
+     id="defs4149" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3125"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       dotted="false"
+       type="xygrid"
+       id="grid869" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)">
+    <path
+       style="opacity:1;fill:#979797;fill-opacity:1;stroke:none;stroke-width:12.80000019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 128 33 A 134.35018 190 0 0 1 223 88.650391 L 144.45312 199.73242 C 148.62733 203.8161 150.7207 208.8589 150.7207 214.86914 C 150.7207 221.11914 148.46506 226.37153 143.95117 230.625 C 139.43728 234.79167 133.57791 236.875 126.37305 236.875 C 119.16819 236.875 113.30881 234.79167 108.79492 230.625 C 104.28103 226.37153 102.02344 221.11914 102.02344 214.86914 C 102.02344 208.61914 104.28103 203.41081 108.79492 199.24414 C 109.27774 198.78918 109.77936 198.36528 110.29297 197.95898 L 33 88.650391 A 134.35018 190 0 0 1 128 33 z M 110.29297 197.95898 L 128 223 L 144.45312 199.73242 C 144.28661 199.56951 144.12433 199.40398 143.95117 199.24414 C 139.43728 194.99067 133.57791 192.86523 126.37305 192.86523 C 119.93884 192.86523 114.58109 194.56677 110.29297 197.95898 z M 128.45508 43.125 C 111.26758 43.125 96.728297 47.465929 84.835938 56.146484 C 73.030382 64.82704 66.954644 78.845487 66.607422 98.203125 L 110.74805 98.203125 C 110.92166 90.737848 112.78668 85.355252 116.3457 82.056641 C 119.90473 78.671224 123.94119 76.978516 128.45508 76.978516 C 139.65299 76.978516 145.25195 83.532987 145.25195 96.640625 C 145.25195 102.10937 143.47309 107.14345 139.91406 111.74414 C 136.44184 116.34483 131.66819 121.16254 125.5918 126.19727 C 118.64735 132.18685 113.87174 139.04579 111.26758 146.77148 C 108.66341 154.41037 107.36133 163.91558 107.36133 175.28711 L 144.73242 175.28711 C 144.90603 168.42947 145.85959 162.7424 147.5957 158.22852 C 149.41862 153.62782 152.89214 149.11458 158.01367 144.6875 C 166.78103 136.70139 174.20291 129.19336 180.2793 122.16211 C 186.35569 115.13086 189.39258 105.97222 189.39258 94.6875 C 189.39258 77.847223 183.96788 65.042751 173.11719 56.275391 C 162.3533 47.50803 147.46549 43.125 128.45508 43.125 z "
+       transform="translate(0,796.36216)"
+       id="path814" />
+  </g>
+</svg>

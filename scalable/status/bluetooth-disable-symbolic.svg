@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="bluetooth-disable-symbolic.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3125"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)">
+    <path
+       style="fill:#0061ff;fill-opacity:1;stroke-width:1.5881151"
+       d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 121.35547 23.001953 C 124.89548 22.940193 128.30973 24.314057 130.82031 26.810547 L 183.21094 79.201172 C 188.53197 84.349382 188.53197 92.881087 183.21094 98.029297 L 153.33203 127.9082 L 183.21094 157.78711 C 185.54041 160.04092 186.84882 162.94282 187.13867 165.92578 L 219.92383 198.71094 L 198.71094 219.92383 L 169.30664 190.51953 L 130.82031 229.00781 C 122.52972 237.58081 108.02814 231.51655 108.30859 219.59375 L 108.30859 172.93164 L 91.527344 189.71289 C 86.328099 194.91214 77.898462 194.91213 72.699219 189.71289 C 67.499976 184.51365 67.499974 176.08402 72.699219 170.88477 L 108.30859 135.27539 L 108.30859 129.52148 L 36.076172 57.289062 L 57.289062 36.076172 L 83.492188 62.279297 C 86.426286 62.583676 89.279327 63.854872 91.527344 66.103516 L 108.30859 82.884766 L 108.30859 36.224609 C 108.25719 29.584989 113.18181 23.957113 119.76953 23.126953 C 120.29516 23.053153 120.82478 23.011953 121.35547 23.001953 z M 83.492188 62.279297 C 79.640541 61.879733 75.648698 63.150158 72.697266 66.101562 C 67.497459 71.301332 67.498659 79.732611 72.699219 84.931641 L 108.30859 120.54102 L 108.30859 129.52148 L 134.50391 155.7168 L 134.50391 146.73633 L 154.96875 167.20117 L 150.47852 171.69141 L 169.30664 190.51953 L 183.21094 176.61523 C 186.2025 173.72083 187.51091 169.75658 187.13867 165.92578 L 83.492188 62.279297 z M 150.47852 171.69141 L 134.50391 155.7168 L 134.50391 187.66797 L 150.47852 171.69141 z M 134.50391 68.150391 L 134.50391 109.08008 L 154.96875 88.615234 L 134.50391 68.150391 z "
+       transform="translate(0,796.36216)"
+       id="circle4524" />
+  </g>
+</svg>
