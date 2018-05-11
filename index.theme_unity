@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Shadow
-Comment=Linux icons with long shadow
+Name=Dual
+Comment=Linux icons with dual tone 
 Inherits=Adwaita,Humanity
 Example=folder
 
