@@ -15,7 +15,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Civ-V.svg">
   <sodipodi:namedview
      id="base"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="37.059045"
+     inkscape:cx="-65.828577"
      inkscape:cy="127.02476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -299,88 +299,48 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <g
+       id="g882">
+      <path
+         d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="924.36218"
+         sodipodi:cx="128"
+         sodipodi:type="arc"
+         id="path876"
+         style="opacity:1;fill:#a3aab4;fill-opacity:1;stroke:none;stroke-width:22.34551239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         transform="scale(1,-1)"
+         style="opacity:1;fill:#50596a;fill-opacity:1;stroke:none;stroke-width:22.34551239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path878"
+         sodipodi:type="arc"
+         sodipodi:cx="128"
+         sodipodi:cy="-924.36218"
+         sodipodi:rx="128"
+         sodipodi:ry="128"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z" />
+    </g>
     <path
        inkscape:connector-curvature="0"
        id="path4913"
        d="M 154.47438,968.80998 101.03985,1048.476 0.4857685,1048.9618 0,842.0244 l 33.032258,-2.42884 45.176471,83.55218 21.373814,35.4611 26.717267,13.11575 z"
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <circle
-       style="fill:#a3aab4;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
-       id="path4152"
-       cx="128"
-       cy="924.36218"
-       r="128" />
     <text
-       sodipodi:linespacing="125%"
        id="text4192"
        y="932.36218"
        x="100"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="932.36218"
          x="100"
          id="tspan4194"
-         sodipodi:role="line" /></text>
-    <g
-       transform="translate(2.449534,3.303925)"
-       style="fill:#50596a;fill-opacity:1"
-       id="g4211"
-       clip-path="url(#clipPath4383)">
-      <g
-         id="g4285"
-         transform="translate(-2.449534,793.05823)"
-         style="fill:#50596a;fill-opacity:1">
-        <g
-           id="g4287"
-           style="fill:#50596a;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-          <path
-             id="path4289"
-             d="M66.476562 52.208984L127.93945 203.49219L-84.192584356 415.624224356L-145.655472356 264.341018356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4291"
-             d="M127.93945 203.49219L127.93945 203.79102L-84.192584356 415.923054356L-84.192584356 415.624224356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4293"
-             d="M127.93945 203.79102L128.0 203.64258L-84.132034356 415.774614356L-84.192584356 415.923054356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4295"
-             d="M128.0 203.64258L128.06055 203.79102L-84.071484356 415.923054356L-84.132034356 415.774614356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4297"
-             d="M128.06055 203.79102L128.06055 203.49219L-84.071484356 415.624224356L-84.071484356 415.923054356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4299"
-             d="M128.06055 203.49219L189.52344 52.208984L-22.608594356 264.341018356L-84.071484356 415.624224356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4301"
-             d="M189.52344 52.208984L168.20312 52.208984L-43.928914356 264.341018356L-22.608594356 264.341018356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4303"
-             d="M168.20312 52.208984L128.0 157.92578L-84.132034356 370.057814356L-43.928914356 264.341018356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4305"
-             d="M128.0 157.92578L87.796875 52.208984L-124.335159356 264.341018356L-84.132034356 370.057814356Z"
-             style="fill:#50596a;fill-opacity:1" />
-          <path
-             id="path4307"
-             d="M87.796875 52.208984L66.476562 52.208984L-145.655472356 264.341018356L-124.335159356 264.341018356Z"
-             style="fill:#50596a;fill-opacity:1" />
-        </g>
-        <path
-           id="rect4198"
-           transform=""
-           d="M 66.476562 52.208984 L 127.93945 203.49219 L 127.93945 203.79102 L 128 203.64258 L 128.06055 203.79102 L 128.06055 203.49219 L 189.52344 52.208984 L 168.20312 52.208984 L 128 157.92578 L 87.796875 52.208984 L 66.476562 52.208984 z "
-           style="fill:#50596a;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-    </g>
+         sodipodi:role="line"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
     <g
        id="g4226"
        style="fill:#f5ce5c;fill-opacity:1"
