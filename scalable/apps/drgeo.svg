@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="drgeo.svg">
   <sodipodi:namedview
      id="base"
@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0507812"
-     inkscape:cx="39.253331"
+     inkscape:zoom="3.2113222"
+     inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -394,16 +394,33 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
+       d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       sodipodi:ry="128"
+       sodipodi:rx="128"
+       sodipodi:cy="-924.36218"
+       sodipodi:cx="128"
+       sodipodi:type="arc"
+       style="opacity:1;fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:20.51976967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path956"
+       transform="scale(1,-1)" />
+    <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 154.47438,968.80998 101.03985,1048.476 0.4857685,1048.9618 0,842.0244 l 33.032258,-2.42884 45.176471,83.55218 21.373814,35.4611 26.717267,13.11575 z"
        id="path4913"
        inkscape:connector-curvature="0" />
-    <circle
-       r="128"
-       cy="924.36218"
-       cx="128"
+    <path
        id="path4152"
-       style="opacity:1;fill:#fee681;fill-opacity:1;stroke:none;stroke-width:20.51976967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#fee681;fill-opacity:1;stroke:none;stroke-width:20.51976967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       sodipodi:cx="128"
+       sodipodi:cy="924.36218"
+       sodipodi:rx="128"
+       sodipodi:ry="128"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -459,49 +476,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        transform="matrix(1.0315066,0,0,1.0315066,-4.0328448,-29.123532)" />
-    <g
-       id="g4565"
-       transform="translate(-1.1985886,-0.19347216)"
-       style="fill:#e6c53c;fill-opacity:1;stroke:none"
-       clip-path="url(#clipPath5681)">
-      <g
-         transform="scale(-1,1)"
-         id="g4786"
-         style="fill:#e6c53c;fill-opacity:1;stroke:none">
-        <g
-           style="fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="g4788" />
-        <g
-           id="g5025"
-           transform="matrix(-1,0,0,1,-1.1985886,796.55563)"
-           style="fill:#e6c53c;fill-opacity:1;stroke:none">
-          <g
-             id="g5027"
-             style="fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-            <path
-               id="path5029"
-               d="M126.39453 126.41797L37.138672 37.162109L-174.993362356 249.294143356L-85.737504356 338.550004356Z"
-               style="fill:#e6c53c;fill-opacity:1;stroke:none" />
-            <path
-               id="path5031"
-               d="M216.54297 37.162109L127.28711 126.41797L-84.844924356 338.550004356L4.41093564404 249.294143356Z"
-               style="fill:#e6c53c;fill-opacity:1;stroke:none" />
-          </g>
-          <path
-             id="path4563"
-             d="M 37.138672 37.162109 A 89.256706 89.256706 0 0 0 126.39453 126.41797 L 37.138672 37.162109 z M 216.54297 37.162109 L 127.28711 126.41797 A 89.256706 89.256706 0 0 0 216.54297 37.162109 z "
-             style="fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             transform="" />
-        </g>
-      </g>
-      <g
-         id="g4791"
-         style="fill:#e6c53c;fill-opacity:1;stroke:none">
-        <g
-           style="fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="g4793" />
-      </g>
-    </g>
     <g
        transform="matrix(1,0,0,-1,-1.1985886,1849.6952)"
        id="g5274">
@@ -560,29 +534,6 @@
          style="fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -834.46656,36.314308 a 89.256706,89.256706 0 0 1 -89.2567,89.256702"
          id="path4585" />
-    </g>
-    <g
-       id="g5546"
-       transform="translate(0,796.36216)"
-       style="fill:#e6c53c;fill-opacity:1;stroke:none"
-       clip-path="url(#clipPath5677)">
-      <g
-         id="g5548"
-         style="fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           id="path5550"
-           d="M37.138672 219.61523L126.39453 130.35938L-85.737504356 342.491414356L-174.993362356 431.747264356Z"
-           style="fill:#e6c53c;fill-opacity:1;stroke:none" />
-        <path
-           id="path5552"
-           d="M127.28711 130.35938L216.54297 219.61523L4.41093564404 431.747264356L-84.844924356 342.491414356Z"
-           style="fill:#e6c53c;fill-opacity:1;stroke:none" />
-      </g>
-      <path
-         id="path4573"
-         transform=""
-         d="M 126.39453 130.35938 A 89.256706 89.256706 0 0 0 37.138672 219.61523 L 126.39453 130.35938 z M 127.28711 130.35938 L 216.54297 219.61523 A 89.256706 89.256706 0 0 0 127.28711 130.35938 z "
-         style="fill:#e6c53c;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        clip-path="url(#clipPath4625)"
