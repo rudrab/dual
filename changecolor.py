@@ -9,7 +9,7 @@ def denv():
   print("2: Mate")
   print("3: Pantheon")
   print("4: Unity")
-  print("5: KDE "+ '\x1b[1;48;2;185;0;0m'+"(Only those who are using special KDE branch)\x1b[0m")
+  print("5: KDE ")
   name = int(input("Enter 1/2/3 etc to choose your de:"))
   de = "gnome"
   if name == 1:
@@ -23,10 +23,7 @@ def denv():
   elif name == 5:
     de = "kde"
   else:
-    print('\x1b[1;48;2;205;0;0m' + "Though not officially supported," +
-          " you can use it\nfor other de like KDE. Many KDE icons are" +
-          " already themed. This only means unthemed icons will inherit" +
-          " Adwaita"+'\x1b[0m')
+    print('\x1b[1;48;2;205;0;0m' + "Not Supported"+'\x1b[0m')
   print("You have chosen " + de.upper() + " Desktop Environment")
   den = "index.theme_" + de
   os.unlink("index.theme")
