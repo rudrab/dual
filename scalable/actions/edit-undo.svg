@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="edit-undo.svg">
   <sodipodi:namedview
      id="base"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="128"
+     inkscape:cx="25.112378"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -241,34 +241,29 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
+    <path
+       d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       sodipodi:ry="128"
+       sodipodi:rx="128"
+       sodipodi:cy="-924.36218"
+       sodipodi:cx="128"
+       sodipodi:type="arc"
+       style="fill:#830a08;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path867"
+       transform="scale(1,-1)" />
+    <path
+       id="path4172-3"
        style="fill:#ca100d;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4172"
-       cx="128"
-       cy="924.36218"
-       r="128" />
-    <g
-       id="g4217"
-       clip-path="url(#clipPath4272)"
-       style="fill:#430504;fill-opacity:1">
-      <g
-         id="g4219"
-         style="fill:#430504;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-        <path
-           id="path4221"
-           d="M189.0 834.36213L189.0 1014.3622L-23.132034356 1226.49423436L-23.132034356 1046.49416436Z"
-           style="fill:#430504;fill-opacity:1" />
-        <path
-           id="path4223"
-           d="M189.0 1014.3622L39.0 924.36213L-173.132034356 1136.49416436L-23.132034356 1226.49423436Z"
-           style="fill:#430504;fill-opacity:1" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path4237"
-         d="M 189,834.36213 189,1014.3622 39,924.36213 Z"
-         style="fill:#430504;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+       sodipodi:type="arc"
+       sodipodi:cx="128"
+       sodipodi:cy="924.36218"
+       sodipodi:rx="128"
+       sodipodi:ry="128"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 189,834.36213 189,1014.3622 39.000002,924.36213 Z"

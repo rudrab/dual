@@ -14,8 +14,8 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="zoom-best-fit.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="image-auto-adjust.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3046875"
-     inkscape:cx="127.99999"
-     inkscape:cy="127.99998"
+     inkscape:zoom="3.3007812"
+     inkscape:cx="109.51953"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,14 +43,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4176"
-       effect="spiro" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4172"
-       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4829"
@@ -158,70 +150,6 @@
          r="128"
          transform="scale(-1,1)" />
     </clipPath>
-    <clipPath
-       id="clipPath4286"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         r="128"
-         cy="927.36218"
-         cx="125"
-         id="circle4288"
-         style="fill:#ff7b68;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4298">
-      <circle
-         style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4300"
-         cx="128"
-         cy="924.36218"
-         r="128" />
-    </clipPath>
-    <clipPath
-       id="clipPath4292"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         transform="matrix(0,-1,1,0,0,0)"
-         style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4294"
-         cx="-920.63922"
-         cy="128.00002"
-         r="128" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4753">
-      <circle
-         style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4755"
-         cx="-486.26294"
-         cy="798.66675"
-         r="120.95755"
-         transform="matrix(0.77485215,-0.63214251,0.63214251,0.77485215,0,0)" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4774">
-      <circle
-         style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4776"
-         cx="850.09076"
-         cy="385.71805"
-         r="120.95754"
-         transform="matrix(-0.81688221,0.57680453,0.57680453,0.81688221,0,0)" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4780">
-      <circle
-         style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4782"
-         cx="850.09076"
-         cy="385.71805"
-         r="120.95754"
-         transform="matrix(-0.81688221,0.57680453,0.57680453,0.81688221,0,0)" />
-    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -241,57 +169,9 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z"
-       sodipodi:end="3.1415927"
-       sodipodi:start="0"
-       sodipodi:ry="128"
-       sodipodi:rx="128"
-       sodipodi:cy="-924.36218"
-       sodipodi:cx="128"
-       sodipodi:type="arc"
-       style="fill:#0b391b;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path871"
-       transform="scale(1,-1)" />
-    <ellipse
-       ry="20"
-       rx="17.5"
-       cy="837.36218"
-       cx="27.5"
-       id="path4172"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="path4174"
-       style="fill:#1f9c4a;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc"
-       sodipodi:cx="128"
-       sodipodi:cy="924.36218"
-       sodipodi:rx="128"
-       sodipodi:ry="128"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z" />
-    <rect
-       y="817.36218"
-       x="100"
-       height="65"
-       width="45"
-       id="rect4193"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ff00ff;stroke-width:3.79445529"
+       d="M 128 0 A 127.95 128 0 0 0 0.05078125 128 A 127.95 128 0 0 0 128 256 A 127.95 128 0 0 0 255.94922 128 A 127.95 128 0 0 0 128 0 z M 98.830078 16 L 119.54492 50.544922 L 159.54492 55.285156 L 125 76 L 120.25977 116 L 99.544922 81.455078 L 59.544922 76.712891 L 94.089844 55.998047 L 98.830078 16 z M 177.95508 86.507812 L 202.84961 117.02734 L 242.2207 116 L 211.70117 140.89453 L 212.72852 180.26562 L 187.83398 149.74609 L 148.46094 150.77344 L 178.98242 125.87891 L 177.95508 86.507812 z M 55.341797 135.08594 L 85 161 L 123.64258 153.38672 L 97.728516 183.04492 L 105.3418 221.6875 L 75.681641 195.77344 L 37.039062 203.38672 L 62.955078 173.72852 L 55.341797 135.08594 z "
+       transform="translate(0,796.36216)"
+       id="path30" />
   </g>
-  <rect
-     transform="matrix(0.80987382,-0.58660412,0.58660412,0.80987382,0,0)"
-     ry="10.684832"
-     y="214.20757"
-     x="16.446976"
-     height="74.075569"
-     width="21.16445"
-     id="rect4180-2"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
-     transform="matrix(0.80987382,-0.58660412,0.58660412,0.80987382,0,0)"
-     r="67.578621"
-     cy="154.77696"
-     cx="34.93959"
-     id="path4182-2"
-     style="opacity:1;fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

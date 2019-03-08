@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="edit-delete.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    version="1.1"
    id="svg2"
    viewBox="0 0 256 256"
@@ -20,14 +20,14 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="721"
-     inkscape:window-width="1366"
+     inkscape:window-height="1048"
+     inkscape:window-width="1920"
      units="px"
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="127.02476"
-     inkscape:cx="45.592379"
+     inkscape:cx="-57.295243"
      inkscape:zoom="2.0507812"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -186,49 +186,32 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
-       style="fill:#ff6049;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4172"
-       cx="128"
-       cy="924.36218"
-       r="128" />
     <g
-       transform="translate(3,-3)"
-       id="g4178"
-       style="fill:#ff3517;fill-opacity:1;stroke:#ff3517;stroke-opacity:1;stroke-linejoin:round"
-       clip-path="url(#clipPath4286)">
-      <g
-         id="g4227"
-         style="fill:#ff3517;fill-opacity:1;stroke:#ff3517;stroke-opacity:1;stroke-linejoin:round">
-        <g
-           id="g4229"
-           style="fill:#ff3517;fill-rule:evenodd;stroke:#ff3517;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
-          <path
-             id="path4231"
-             d="M175.0 877.36216L75.0 977.36216L-278.553390593 1330.91555059L-178.553390593 1230.91555059Z"
-             style="fill:#ff3517;fill-opacity:1;stroke:#ff3517;stroke-opacity:1;stroke-linejoin:round" />
-        </g>
-        <path
-           id="path4174"
-           d="m 175,877.36216 -100,100"
-           style="fill:#ff3517;fill-rule:evenodd;stroke:#ff3517;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
-      </g>
-      <g
-         id="g4234"
-         style="fill:#ff3517;fill-opacity:1;stroke:#ff3517;stroke-opacity:1;stroke-linejoin:round">
-        <g
-           id="g4236"
-           style="fill:#ff3517;fill-rule:evenodd;stroke:#ff3517;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
-          <path
-             id="path4238"
-             d="M75.0 877.36216L175.0 977.36216L-178.553390593 1330.91555059L-278.553390593 1230.91555059Z"
-             style="fill:#ff3517;fill-opacity:1;stroke:#ff3517;stroke-opacity:1;stroke-linejoin:round" />
-        </g>
-        <path
-           id="path4170"
-           d="m 75,877.36216 100,100"
-           style="fill:#ff3517;fill-rule:evenodd;stroke:#ff3517;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
-      </g>
+       id="g861"
+       transform="translate(275,64.999977)">
+      <path
+         transform="scale(1,-1)"
+         id="path867"
+         style="fill:#dc1c00;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         sodipodi:cx="-147"
+         sodipodi:cy="-859.36218"
+         sodipodi:rx="128"
+         sodipodi:ry="128"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m -19,-859.36218 a 128,128 0 0 1 -64.000002,110.85125 128,128 0 0 1 -127.999998,0 128,128 0 0 1 -64,-110.85126 l 128,1e-5 z" />
+      <path
+         d="M -19,859.36218 A 128,128 0 0 1 -83.000002,970.21344 128,128 0 0 1 -211,970.21343 128,128 0 0 1 -275,859.36218 l 128,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="859.36218"
+         sodipodi:cx="-147"
+         sodipodi:type="arc"
+         style="fill:#ff6049;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4172-3" />
     </g>
     <g
        id="g4188"

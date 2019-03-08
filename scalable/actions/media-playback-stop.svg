@@ -14,8 +14,8 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="stock-media-stop.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="media-playback-stop.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="128"
+     inkscape:cx="25.112378"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -236,36 +236,32 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <circle
-       r="128"
-       cy="924.36218"
-       cx="128"
-       id="path4172"
-       style="fill:#be9efa;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="g4531"
-       clip-path="url(#clipPath4601)"
-       style="fill:#5a33a5;fill-opacity:1">
-      <g
-         id="g4533"
-         style="fill:#5a33a5;fill-opacity:1">
-        <path
-           id="path4535"
-           d="M63.0 859.36218L193.0 859.36218L-19.132034356 1071.49421436L-149.132034356 1071.49421436Z"
-           style="fill:#5a33a5;fill-opacity:1" />
-        <path
-           id="path4537"
-           d="M193.0 859.36218L193.0 989.36218L-19.132034356 1201.49421436L-19.132034356 1071.49421436Z"
-           style="fill:#5a33a5;fill-opacity:1" />
-        <path
-           id="path4539"
-           d="M193.0 989.36218L63.0 989.36218L-149.132034356 1201.49421436L-19.132034356 1201.49421436Z"
-           style="fill:#5a33a5;fill-opacity:1" />
-      </g>
+       transform="translate(0,-2.2617187e-5)"
+       id="g2698">
       <path
-         id="rect4352"
-         d="m 63,859.36218 130,0 0,130 -130,0 z"
-         style="fill:#5a33a5;fill-opacity:1" />
+         transform="scale(1,-1)"
+         id="path2684"
+         style="fill:#5a33a5;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         sodipodi:cx="128"
+         sodipodi:cy="-924.36218"
+         sodipodi:rx="128"
+         sodipodi:ry="128"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z" />
+      <path
+         d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="924.36218"
+         sodipodi:cx="128"
+         sodipodi:type="arc"
+         style="fill:#be9efa;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4172-3" />
     </g>
     <rect
        style="fill:#ffffff;fill-opacity:1"

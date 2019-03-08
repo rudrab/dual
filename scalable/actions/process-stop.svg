@@ -14,8 +14,8 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="process-stop.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="application-exit.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0507812"
+     inkscape:zoom="3.3046875"
      inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:cy="107.05074"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -55,6 +55,14 @@
          cy="927.36218"
          r="128" />
     </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4172-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4176-6"
+       effect="spiro" />
   </defs>
   <metadata
      id="metadata7">
@@ -73,67 +81,50 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
-       r="128"
-       cy="924.36218"
-       cx="128"
-       id="path4136"
-       style="fill:#d10803;fill-opacity:1;stroke:none;stroke-width:17.99472809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(3,-3)"
-       id="g4188"
-       style="stroke:#670401;stroke-opacity:1;fill:#670401;fill-opacity:1;stroke-linejoin:round"
-       clip-path="url(#clipPath4839)">
+       id="g4572"
+       transform="translate(78.373524,27.53666)">
+      <path
+         transform="scale(1,-1)"
+         id="path829"
+         style="fill:#670401;fill-opacity:1;stroke:none;stroke-width:17.99472809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         sodipodi:cx="49.626476"
+         sodipodi:cy="-896.8255"
+         sodipodi:rx="128"
+         sodipodi:ry="128"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m 177.62648,-896.8255 a 128,128 0 0 1 -64.00001,110.85125 128,128 0 0 1 -127.999997,0 128,128 0 0 1 -63.999997,-110.85126 l 128,10e-6 z" />
+      <path
+         d="m 177.62648,896.8255 a 128,128 0 0 1 -64.00001,110.8513 128,128 0 0 1 -127.999997,0 128,128 0 0 1 -63.999997,-110.85131 l 128,1e-5 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="896.8255"
+         sodipodi:cx="49.626476"
+         sodipodi:type="arc"
+         style="fill:#d10803;fill-opacity:1;stroke:none;stroke-width:17.99472809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4136" />
       <g
-         id="g4802"
-         style="stroke:#670401;stroke-opacity:1;fill:#670401;fill-opacity:1;stroke-linejoin:round">
-        <g
-           id="g4804"
-           style="fill:#670401;fill-rule:evenodd;stroke:#670401;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
-          <path
-             id="path4806"
-             d="M175.0 877.36216L75.0 977.36216L-137.132034356 1189.49419436L-37.132034356 1089.49419436Z"
-             style="stroke:#670401;stroke-opacity:1;fill:#670401;fill-opacity:1;stroke-linejoin:round" />
-        </g>
+         transform="translate(-75.373522,-30.536686)"
+         id="g4785">
         <path
-           id="path4192"
-           d="m 175,877.36216 -100,100"
-           style="fill:#670401;fill-rule:evenodd;stroke:#670401;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
-      </g>
-      <g
-         id="g4809"
-         style="stroke:#670401;stroke-opacity:1;fill:#670401;fill-opacity:1;stroke-linejoin:round">
-        <g
-           id="g4811"
-           style="fill:#670401;fill-rule:evenodd;stroke:#670401;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
-          <path
-             id="path4813"
-             d="M75.0 877.36216L175.0 977.36216L-37.132034356 1189.49419436L-137.132034356 1089.49419436Z"
-             style="stroke:#670401;stroke-opacity:1;fill:#670401;fill-opacity:1;stroke-linejoin:round" />
-        </g>
-        <path
-           id="path4190"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:35;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 75,877.36216 100,100"
-           style="fill:#670401;fill-rule:evenodd;stroke:#670401;stroke-width:35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+           id="path4787"
+           inkscape:path-effect="#path-effect4172-3"
+           inkscape:original-d="m 75,877.36216 100,100"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 175,877.36216 -100,100"
+           inkscape:path-effect="#path-effect4176-6"
+           id="path4789"
+           d="m 175,877.36216 -100,100"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:35;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
-    </g>
-    <g
-       id="g4785"
-       transform="translate(3,-3)">
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 75,877.36216 100,100"
-         inkscape:path-effect="#path-effect4172"
-         id="path4787"
-         d="m 75,877.36216 100,100"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:35;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:35;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 175,877.36216 -100,100"
-         id="path4789"
-         inkscape:path-effect="#path-effect4176"
-         inkscape:original-d="m 175,877.36216 -100,100"
-         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

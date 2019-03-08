@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="edit-redo.svg">
   <sodipodi:namedview
      id="base"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0507812"
-     inkscape:cx="127.51238"
+     inkscape:cx="24.624758"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -56,21 +56,6 @@
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
          style="fill-rule:evenodd;stroke:#a52222;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
          transform="scale(0.2)" />
-    </marker>
-    <marker
-       inkscape:collect="always"
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="TriangleOutS"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="TriangleOutS">
-      <path
-         transform="scale(0.2)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         id="path4342" />
     </marker>
     <inkscape:path-effect
        effect="spiro"
@@ -256,38 +241,32 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
-       style="fill:#049c19;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4172"
-       cx="128"
-       cy="924.36218"
-       r="128" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4188"
-       d="m -216.61657,937.23297 a 90.620003,88.227615 10.851074 0 1 82.00838,-71.05313 90.620003,88.227615 10.851074 0 1 92.372051,59.56219"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:35;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS)" />
     <g
-       id="g4283"
-       clip-path="url(#clipPath4341)"
-       style="fill:#02510d;fill-opacity:1">
-      <g
-         id="g4285"
-         style="fill:#02510d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-        <path
-           id="path4287"
-           d="M65.0 834.36213L65.0 1014.3622L-147.132034356 1226.49423436L-147.132034356 1046.49416436Z"
-           style="fill:#02510d;fill-opacity:1" />
-        <path
-           id="path4289"
-           d="M65.0 1014.3622L215.0 924.36213L2.86796564404 1136.49416436L-147.132034356 1226.49423436Z"
-           style="fill:#02510d;fill-opacity:1" />
-      </g>
+       id="g904"
+       transform="translate(268,36.999977)">
       <path
-         inkscape:connector-curvature="0"
-         id="path4235"
-         d="m 65,834.36213 0,180.00007 150,-90.00007 z"
-         style="fill:#02510d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         transform="scale(1,-1)"
+         id="path867"
+         style="fill:#02510d;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         sodipodi:cx="-140"
+         sodipodi:cy="-887.36218"
+         sodipodi:rx="128"
+         sodipodi:ry="128"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m -12,-887.36218 a 128,128 0 0 1 -64.000002,110.85125 128,128 0 0 1 -127.999998,0 128,128 0 0 1 -64,-110.85126 l 128,1e-5 z" />
+      <path
+         d="M -12,887.36218 A 128,128 0 0 1 -76.000002,998.21344 128,128 0 0 1 -204,998.21343 128,128 0 0 1 -268,887.36218 l 128,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="887.36218"
+         sodipodi:cx="-140"
+         sodipodi:type="arc"
+         style="fill:#049c19;fill-opacity:1;stroke:none;stroke-width:31.56804466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4172-3" />
     </g>
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
