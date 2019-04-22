@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
    height="256"
    viewBox="0 0 256 256"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="text-x-scala.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="835"
+     inkscape:window-height="480"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs4">
     <filter
@@ -100,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,11 +143,6 @@
          d="m 255.61415,923.74423 a 128,128 0 0 0 0.16406,-0.006 L 127.62197,795.58211 a 128,128 0 0 0 -0.008,0.16211 128,128 0 0 0 35.85352,88.80861 l 0.98046,0.98046 a 128,128 0 0 0 91.16603,38.21094 z"
          id="rect4961" />
     </g>
-    <path
-       id="path5650"
-       transform="translate(0,796.36214)"
-       d="M 86.880859 129.75586 C 63.842939 154.28438 42.04333 177.22297 21.251953 198.86328 A 128 128 0 0 0 127.79102 256.38281 C 144.90834 238.9227 160.74965 222.73875 173.22852 209.98633 L 173.22852 183.46094 C 173.22852 182.18963 171.0051 180.8338 167.25781 179.44141 L 167.25781 179.37891 C 170.28893 176.81596 173.22852 174.08008 173.22852 174.08008 L 173.22852 147.59961 C 173.22852 146.32799 171.00521 144.95398 167.25781 143.55273 L 167.25781 143.52344 C 170.0554 140.89704 173.22852 138.21875 173.22852 138.21875 C 139.02087 135.78951 136.85411 135.3985 86.880859 129.75586 z "
-       style="fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none" />
     <g
        transform="matrix(1.1184263,0,0,1.1184263,-11.803288,-124.51005)"
        id="g4209"

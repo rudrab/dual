@@ -14,7 +14,7 @@
    height="256"
    width="256"
    sodipodi:docname="text-kotlin.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,11 +25,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      id="namedview49"
      showgrid="false"
      inkscape:zoom="3.3359375"
-     inkscape:cx="128"
+     inkscape:cx="63.250585"
      inkscape:cy="128"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -239,10 +239,6 @@
        id="rect4961"
        d="m 255.61415,127.77208 a 128,128 0 0 0 0.16406,-0.006 L 127.62197,-0.39004 a 128,128 0 0 0 -0.008,0.16211 128,128 0 0 0 35.85352,88.80861 l 0.98046,0.98046 a 128,128 0 0 0 91.16603,38.21094 z"
        style="fill:#ef7e74;fill-opacity:1" />
-    <path
-       style="fill:#8a2219;fill-opacity:1;stroke:none;opacity:0.601"
-       d="M 74.662109 116.66016 C 54.14003 139.69198 33.398485 162.08178 12.763672 183.74219 A 128 128 0 0 0 128 256.39062 A 128 128 0 0 0 163.86133 251.17188 C 171.15353 244.11622 178.36196 237.14327 186.89453 228.89258 C 126.98577 168.03558 120.14613 161.33972 74.662109 116.66016 z "
-       id="path4467" />
     <path
        id="path27-9"
        d="m 131.01134,116.66099 -56.348678,59.25775 0,52.97452 56.267888,-56.36663 55.9644,-55.86564 -55.88361,0 z"
