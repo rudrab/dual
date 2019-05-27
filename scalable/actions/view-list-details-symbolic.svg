@@ -9,32 +9,32 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="system-shutdown.svg"
-   inkscape:version="0.92.4 (unknown)"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 256 256"
+   width="256"
    height="256"
-   width="256">
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="view-list-details-symbolic.svg">
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="1043"
-     inkscape:window-width="1920"
-     units="px"
-     showgrid="true"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="127.99998"
-     inkscape:cx="127.69953"
-     inkscape:zoom="3.328125"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3046875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4191"
@@ -43,6 +43,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4187"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4202"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4198"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4176"
@@ -169,24 +181,24 @@
          r="128" />
     </clipPath>
     <clipPath
-       id="clipPath4298"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4607">
       <circle
          r="128"
          cy="924.36218"
          cx="128"
-         id="circle4300"
-         style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="circle4609"
+         style="fill:#1ce089;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath1007">
+       id="clipPath4192">
       <circle
          r="128"
-         cy="128.00002"
-         cx="128"
-         id="circle1009"
-         style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         cy="924.36218"
+         cx="136"
+         id="circle4194"
+         style="fill:#1ce089;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
   </defs>
   <metadata
@@ -197,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -206,54 +218,21 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <ellipse
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4172"
-       cx="27.5"
-       cy="837.36218"
-       rx="17.5"
-       ry="20" />
     <path
-       style="fill:#df241d;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4174"
-       sodipodi:type="arc"
-       sodipodi:cx="128"
-       sodipodi:cy="924.36218"
-       sodipodi:rx="128"
-       sodipodi:ry="128"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4193"
-       width="45"
-       height="65"
-       x="100"
-       y="817.36218" />
+       style="fill:#414141;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 131.01953 0.03515625 A 128 128 0 0 0 64 17.148438 A 128 128 0 0 0 0 128 L 128 128 L 256 128 A 128 128 0 0 0 192 17.148438 A 128 128 0 0 0 131.01953 0.03515625 z M 70.5 48 L 95.5 48 C 107.83526 48 118 58.16474 118 70.5 L 118 95.5 C 118 107.83526 107.83526 118 95.5 118 L 70.5 118 C 58.164742 118 48 107.83526 48 95.5 L 48 70.5 C 48 58.16474 58.164742 48 70.5 48 z M 144.75 48.001953 L 159.75 48.001953 L 184.75 48.001953 L 199.75 48.001953 A 7.50075 7.50075 0 1 1 199.75 63.001953 L 184.75 63.001953 L 159.75 63.001953 L 144.75 63.001953 A 7.50075 7.50075 0 1 1 144.75 48.001953 z M 70.5 63 C 66.215283 63 63 66.21528 63 70.5 L 63 95.5 C 63 99.78471 66.215283 103 70.5 103 L 95.5 103 C 99.784717 103 103 99.78471 103 95.5 L 103 70.5 C 103 66.21528 99.784717 63 95.5 63 L 70.5 63 z M 144.75 75.5 L 159.75 75.5 L 184.75 75.5 L 199.75 75.5 A 7.50075 7.50075 0 1 1 199.75 90.5 L 184.75 90.5 L 159.75 90.5 L 144.75 90.5 A 7.50075 7.50075 0 1 1 144.75 75.5 z M 145.25 103 L 160.25 103 L 185.25 103 L 200.25 103 A 7.50075 7.50075 0 1 1 200.25 118 L 185.25 118 L 160.25 118 L 145.25 118 A 7.50075 7.50075 0 1 1 145.25 103 z "
+       transform="translate(0,796.36216)"
+       id="path898" />
     <path
-       d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z"
-       sodipodi:end="3.1415927"
-       sodipodi:start="0"
-       sodipodi:ry="128"
-       sodipodi:rx="128"
-       sodipodi:cy="-924.36218"
-       sodipodi:cx="128"
-       sodipodi:type="arc"
-       id="path871"
-       style="fill:#70120f;fill-opacity:1;stroke:none;stroke-width:71;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(1,-1)" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4217-6"
-       d="m 169.38358,856.72887 a 79.554039,79.554039 0 0 1 38.17046,67.94295 v 0 A 79.554039,79.554039 0 0 1 128,1004.2258 79.554039,79.554039 0 0 1 48.44596,924.67182 79.554039,79.554039 0 0 1 86.631243,856.71985"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="822.67181"
-       x="113"
-       height="65"
-       width="30"
-       id="rect4219-1"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#757575;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0 128 A 128 128 0 0 0 64 238.85156 A 128 128 0 0 0 192 238.85156 A 128 128 0 0 0 256 128 L 128 128 L 0 128 z M 70.5 138.25195 L 95.5 138.25195 C 107.83526 138.25195 118 148.41669 118 160.75195 L 118 185.75195 C 118 198.08721 107.83526 208.25195 95.5 208.25195 L 70.5 208.25195 C 58.164742 208.25195 48 198.08721 48 185.75195 L 48 160.75195 C 48 148.41669 58.164742 138.25195 70.5 138.25195 z M 144.75 138.25195 L 159.75 138.25195 L 184.75 138.25195 L 199.75 138.25195 A 7.50075 7.50075 0 1 1 199.75 153.25195 L 184.75 153.25195 L 159.75 153.25195 L 144.75 153.25195 A 7.50075 7.50075 0 1 1 144.75 138.25195 z M 70.5 153.25195 C 66.215283 153.25195 63 156.46723 63 160.75195 L 63 185.75195 C 63 190.03667 66.215283 193.25195 70.5 193.25195 L 95.5 193.25195 C 99.784717 193.25195 103 190.03667 103 185.75195 L 103 160.75195 C 103 156.46723 99.784717 153.25195 95.5 153.25195 L 70.5 153.25195 z M 144.75 165.75 L 159.75 165.75 L 184.75 165.75 L 199.75 165.75 A 7.50075 7.50075 0 1 1 199.75 180.75 L 184.75 180.75 L 159.75 180.75 L 144.75 180.75 A 7.50075 7.50075 0 1 1 144.75 165.75 z M 145.25 193.25 L 160.25 193.25 L 185.25 193.25 L 200.25 193.25 A 7.50075 7.50075 0 1 1 200.25 208.25 L 185.25 208.25 L 160.25 208.25 L 145.25 208.25 A 7.50075 7.50075 0 1 1 145.25 193.25 z "
+       transform="translate(0,796.36216)"
+       id="path4178" />
+    <g
+       id="g896"
+       transform="translate(-0.250005)" />
+    <g
+       id="g905"
+       transform="translate(-0.250005,90.250376)" />
   </g>
 </svg>
