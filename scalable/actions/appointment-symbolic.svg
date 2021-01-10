@@ -7,33 +7,33 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="go-next.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 256 256"
+   width="256"
    height="256"
-   width="256">
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0beta2 (unknown)"
+   sodipodi:docname="appointment-symbolic.svg">
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="1048"
-     inkscape:window-width="1920"
-     units="px"
-     showgrid="true"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="128"
-     inkscape:cx="25.112378"
-     inkscape:zoom="2.0507812"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
+     inkscape:document-rotation="0"
      id="base"
-     inkscape:document-rotation="0">
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3046871"
+     inkscape:cx="128"
+     inkscape:cy="127.99996"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4191"
@@ -42,18 +42,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4829"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4153"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4175"
-       effect="spiro" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4174">
@@ -117,27 +105,6 @@
          cy="640.4978"
          r="128" />
     </clipPath>
-    <clipPath
-       id="clipPath4857"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4859"
-         cx="128"
-         cy="924.36218"
-         r="128" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath5081">
-      <circle
-         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle5083"
-         cx="-127.94974"
-         cy="924.36218"
-         r="128"
-         transform="scale(-1,1)" />
-    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -156,39 +123,15 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <path
+       transform="translate(0,796.36216)"
+       d="M 127.67578 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 A 128 128 0 0 0 127.67578 0 z M 75.611328 42.384766 C 76.703478 42.422983 77.77289 42.919619 78.515625 43.841797 L 125.99805 102.79688 L 179.84375 59.427734 C 182.42741 57.346816 186.18599 57.748533 188.26953 60.330078 L 196.35938 70.355469 C 198.44291 72.937014 198.04069 76.690566 195.45703 78.771484 L 126.9043 133.98633 C 124.32063 136.06725 120.56206 135.66358 118.47852 133.08203 L 110.38867 123.05664 C 110.3224 122.97453 110.26437 122.88907 110.20312 122.80469 L 59.175781 59.449219 C 57.817638 57.762952 58.08074 55.311029 59.765625 53.951172 L 73.021484 43.251953 C 73.653316 42.742007 74.393517 42.460567 75.142578 42.396484 C 75.298632 42.383134 75.455307 42.379306 75.611328 42.384766 z "
+       style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4136" />
     <g
-       id="g1594">
-      <g
-         transform="translate(0,-2.2617187e-5)"
-         id="g842">
-        <path
-           transform="scale(1,-1)"
-           style="fill:#0692ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path846"
-           sodipodi:type="arc"
-           sodipodi:cx="128"
-           sodipodi:cy="-924.36218"
-           sodipodi:rx="128"
-           sodipodi:ry="128"
-           sodipodi:start="0"
-           sodipodi:end="3.1415927"
-           d="m 256,-924.36218 a 128,128 0 0 1 -64,110.85125 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,-924.36219 l 128,1e-5 z" />
-        <path
-           d="m 256,924.36218 a 128,128 0 0 1 -64,110.85122 128,128 0 0 1 -128.000003,0 A 128,128 0 0 1 0,924.36218 l 128,0 z"
-           sodipodi:end="3.1415927"
-           sodipodi:start="0"
-           sodipodi:ry="128"
-           sodipodi:rx="128"
-           sodipodi:cy="924.36218"
-           sodipodi:cx="128"
-           sodipodi:type="arc"
-           id="path4136-3"
-           style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <path
-         d="M 138.83401,827.19619 116,850.0302 190.17004,924.36223 116,998.69413 138.83401,1021.5281 236,924.36223 Z"
-         id="path906"
-         style="stroke-width:16.1943;fill:#ffffff;fill-opacity:1" />
-    </g>
+       transform="matrix(0.77780341,-0.62850764,0.62850764,0.77780341,-558.50537,282.60727)"
+       inkscape:transform-center-y="-46.690058"
+       inkscape:transform-center-x="-5.3118508"
+       id="g4150" />
   </g>
 </svg>
