@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="browser.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="web-browser.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    version="1.1"
    id="svg2"
    viewBox="0 0 256 256"
@@ -34,7 +32,8 @@
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <marker
@@ -191,6 +190,132 @@
          id="circle1200"
          style="opacity:1;fill:#3f71aa;fill-opacity:1;stroke:none;stroke-width:20.51976967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       id="m">
+      <path
+         d="M 0,0 H 192 V 152 H 0 Z"
+         id="path38" />
+    </clipPath>
+    <mask
+       id="Q">
+      <g
+         filter="url(#a)"
+         id="g88"
+         transform="translate(0,796.36216)">
+        <path
+           fill-opacity="0.668"
+           d="M 0,0 H 128 V 128 H 0 Z"
+           id="path86" />
+      </g>
+    </mask>
+    <filter
+       id="a"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix203" />
+    </filter>
+    <clipPath
+       id="clipPath1104">
+      <path
+         d="M 0,0 H 192 V 152 H 0 Z"
+         id="path1102" />
+    </clipPath>
+    <clipPath
+       id="n">
+      <path
+         d="M 0,0 H 192 V 152 H 0 Z"
+         id="path32" />
+    </clipPath>
+    <mask
+       id="S">
+      <g
+         filter="url(#a)"
+         id="g58"
+         transform="translate(0,796.36216)">
+        <path
+           fill-opacity="0.668"
+           d="M 0,0 H 128 V 128 H 0 Z"
+           id="path56" />
+      </g>
+    </mask>
+    <filter
+       id="filter1113"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix1111" />
+    </filter>
+    <clipPath
+       id="clipPath1117">
+      <path
+         d="M 0,0 H 192 V 152 H 0 Z"
+         id="path1115" />
+    </clipPath>
+    <clipPath
+       id="o">
+      <path
+         d="M 0,0 H 192 V 152 H 0 Z"
+         id="path26" />
+    </clipPath>
+    <mask
+       id="U">
+      <g
+         filter="url(#a)"
+         id="g108"
+         transform="translate(0,796.36216)">
+        <path
+           fill-opacity="0.668"
+           d="M 0,0 H 128 V 128 H 0 Z"
+           id="path106" />
+      </g>
+    </mask>
+    <filter
+       id="filter1126"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix1124" />
+    </filter>
+    <clipPath
+       id="clipPath1130">
+      <path
+         d="M 0,0 H 192 V 152 H 0 Z"
+         id="path1128" />
+    </clipPath>
+    <radialGradient
+       id="X"
+       gradientUnits="userSpaceOnUse"
+       cx="17.813999"
+       cy="24.149"
+       fx="17.813999"
+       fy="24.149"
+       r="9.125"
+       gradientTransform="matrix(12.827392,0,0,12.295858,-94.680703,604.61897)">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop184" />
+      <stop
+         offset="1"
+         stop-color="#e4e4e4"
+         id="stop186" />
+    </radialGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -241,30 +366,51 @@
        id="path4913"
        d="M 154.47438,968.80998 101.03985,1048.476 0.4857685,1048.9618 0,842.0244 l 33.032258,-2.42884 45.176471,83.55218 21.373814,35.4611 26.717267,13.11575 z"
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.46466732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 155.31815,914.34412 a 25.367666,25.367666 0 0 1 -25.36767,25.36766 25.367666,25.367666 0 0 1 -25.36767,-25.36766 25.367666,25.367666 0 0 1 25.36767,-25.36767 25.367666,25.367666 0 0 1 25.36767,25.36767 z"
-       id="ellipse4829"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6.31765747;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 181.79165,914.34412 a 51.841171,51.841171 0 0 1 -51.84117,51.84117 51.841171,51.841171 0 0 1 -51.841175,-51.84117 51.841171,51.841171 0 0 1 51.841175,-51.84118 51.841171,51.841171 0 0 1 51.84117,51.84118 z"
-       id="circle4831"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.07972884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 204.61312,914.34412 a 74.662636,74.662704 0 0 1 -74.66264,74.6627 74.662636,74.662704 0 0 1 -74.66264,-74.6627 74.662636,74.662704 0 0 1 74.66264,-74.66271 74.662636,74.662704 0 0 1 74.66264,74.66271 z"
-       id="ellipse4833"
-       inkscape:connector-curvature="0" />
     <g
-       id="g4823"
-       transform="matrix(1.2663012,0.73101244,-0.73349732,1.2706056,604.08313,-280.87209)"
-       style="fill:#ffffff;fill-opacity:1;stroke:#254365;stroke-opacity:1">
-      <path
-         id="path4825"
-         transform="matrix(0.59231134,-0.34077212,0.34193048,0.59030478,10.533934,841.75122)"
-         d="M 135.18359 117.20703 L 95.011719 140.48242 L 54.839844 163.75781 L 86.933594 171.54492 L 79.779297 183.93555 A 14.623014 14.672721 29.997195 1 0 105.10547 198.55664 L 112.25977 186.16406 L 135.05273 210.0625 L 135.11914 163.63477 L 135.18359 117.20703 z "
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.46463823;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="g920"
+       transform="matrix(1.2393277,0,0,1.2393277,-43.860618,-178.48934)">
+      <g
+         id="use240"
+         clip-path="url(#m)"
+         transform="matrix(1.7266554,0,0,1.7266554,44.016345,775.48188)">
+        <path
+           d="m 66.8,66.254 c 0,6.617 -5.362,11.98 -11.98,11.98 -6.613,0 -11.976,-5.363 -11.976,-11.98 0,-6.617 5.363,-11.98 11.976,-11.98 6.617,0 11.98,5.363 11.98,11.98 z m 0,0"
+           fill="none"
+           stroke-width="5.59"
+           stroke-linejoin="round"
+           stroke="#ffffff"
+           id="path970" />
+      </g>
+      <g
+         id="use242"
+         clip-path="url(#n)"
+         transform="matrix(1.7266554,0,0,1.7266554,44.016345,775.48188)">
+        <path
+           d="m 77.602,66.254 c 0,12.582 -10.2,22.781 -22.782,22.781 -12.578,0 -22.777,-10.2 -22.777,-22.781 0,-12.582 10.2,-22.781 22.777,-22.781 12.582,0 22.782,10.199 22.782,22.78 z m 0,0"
+           fill="none"
+           stroke-width="3.862"
+           stroke-linejoin="round"
+           stroke="#ffffff"
+           id="path966" />
+      </g>
+      <g
+         id="use244"
+         clip-path="url(#o)"
+         transform="matrix(1.7266554,0,0,1.7266554,44.016345,775.48188)">
+        <path
+           d="m 88.879,66.254 c 0,18.808 -15.246,34.058 -34.059,34.058 -18.808,0 -34.058,-15.25 -34.058,-34.058 0,-18.813 15.25,-34.059 34.058,-34.059 18.813,0 34.059,15.246 34.059,34.059 z m 0,0"
+           fill="none"
+           stroke-width="1.98"
+           stroke-linejoin="round"
+           stroke="#ffffff"
+           id="path962" />
+      </g>
     </g>
+    <path
+       d="m 132.20226,911.00452 -84.200624,78.23982 37.560809,2.03294 -16.474304,32.39472 c -5.171436,14.4464 16.53802,20.3771 20.416504,9.5466 l 15.266125,-32.4296 26.05444,29.0784 z m 0,0"
+       fill-rule="evenodd"
+       fill="url(#X)"
+       id="path248"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.72666" />
   </g>
 </svg>
