@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="notification-symbolic.svg">
   <sodipodi:namedview
      id="base"
@@ -34,7 +32,8 @@
      inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -110,7 +109,7 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <path
-       style="fill:#94d6d8;fill-opacity:1;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0.74901962;stroke:none;stroke-width:9.51799965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 128 28 A 13.793103 13.793103 0 0 1 141.79297 41.792969 L 141.79297 41.931641 C 166.1378 48.221296 183.14429 71.83381 183.17188 96.964844 C 183.17188 96.964844 183.17181 165.93046 206.06836 174.50977 C 206.30284 174.6477 206.4004 174.938 206.62109 175.10352 A 9.9999997 9.9999997 0 0 1 208.85547 177.51758 C 209.08995 177.88999 209.37916 178.16629 209.57227 178.58008 A 10.17931 10.17931 0 0 1 210.75781 183.18555 C 210.75781 188.90968 206.15199 193.53125 200.41406 193.53125 L 55.585938 193.53125 C 49.8618 193.53125 45.242188 188.90968 45.242188 183.18555 A 10.17931 10.17931 0 0 1 46.427734 178.58008 C 46.620838 178.18008 46.909927 177.88999 47.158203 177.51758 A 10.013793 10.013793 0 0 1 49.378906 175.10352 C 49.613389 174.92421 49.710951 174.6477 49.931641 174.50977 C 72.828192 165.93046 72.828125 96.964844 72.828125 96.964844 C 72.855711 71.83381 89.875998 48.221296 114.20703 41.931641 L 114.20703 41.792969 A 13.793103 13.793103 0 0 1 128 28 z M 101.33789 207.31055 L 154.70312 207.31055 A 27.586206 27.586206 0 0 1 128 228 A 27.586206 27.586206 0 0 1 101.33789 207.31055 z "
        transform="translate(0,796.36216)"
        id="path4145" />

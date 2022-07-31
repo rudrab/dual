@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="insert-text.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    version="1.1"
    id="svg2"
    viewBox="0 0 256 256"
@@ -20,21 +18,22 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1054"
+     inkscape:window-height="1048"
      inkscape:window-width="1920"
      units="px"
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="128"
-     inkscape:cx="39.253331"
-     inkscape:zoom="2.0507812"
+     inkscape:cy="128.00003"
+     inkscape:cx="128"
+     inkscape:zoom="3.3437497"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4191"
@@ -288,12 +287,10 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
-       style="fill:#29ebe3;fill-opacity:1;stroke:none;stroke-width:6.37599993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="path4178"
-       cx="128"
-       cy="924.36218"
-       r="128" />
+       style="fill:#29ebe3;fill-opacity:1;stroke:none;stroke-width:6.376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 256,924.36218 A 128,128 0 0 1 128,1052.3622 128,128 0 0 1 0,924.36218 a 128,128 0 0 1 128,-128 128,128 0 0 1 128,128 z" />
     <g
        transform="translate(-1.2342148,-3.1754555)"
        id="g5545"
