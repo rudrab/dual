@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    sodipodi:docname="go-jump-symbolic.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -24,10 +22,10 @@
      inkscape:window-width="1920"
      units="px"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1594"
      inkscape:document-units="px"
      inkscape:cy="128"
-     inkscape:cx="127.85321"
+     inkscape:cx="70.018349"
      inkscape:zoom="3.40625"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -35,6 +33,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
+     inkscape:document-rotation="0"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
@@ -132,46 +131,15 @@
          r="128" />
     </clipPath>
     <clipPath
-       id="clipPath5081-7"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5081">
       <circle
-         transform="scale(-1,1)"
-         r="128"
-         cy="924.36218"
+         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle5083"
          cx="-127.94974"
-         id="circle5083-5"
-         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4177"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4179"
-         cx="128"
          cy="924.36218"
-         r="128" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4225">
-      <circle
-         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4227"
-         cx="-925.83282"
-         cy="-128.68951"
          r="128"
-         transform="matrix(0,-1,-1,0,0,0)" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4233">
-      <circle
-         style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4235"
-         cx="128"
-         cy="924.36218"
-         r="128" />
+         transform="scale(-1,1)" />
     </clipPath>
   </defs>
   <metadata
@@ -191,11 +159,16 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <path
-       id="path4136-3"
-       style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128 796.36216 A 128 128 0 0 0 0 924.36216 A 128 128 0 0 0 128 1052.3622 A 128 128 0 0 0 256 924.36216 A 128 128 0 0 0 128 796.36216 z M 128.97461 822.55552 A 20 20 0 0 1 148.97461 842.55552 L 148.97461 960.94224 L 191.48047 926.93833 A 20 20 0 0 1 219.5918 930.06138 A 20 20 0 0 1 216.46875 958.17271 L 141.46875 1018.1727 A 20.002 20.002 0 0 1 116.48047 1018.1727 L 41.480469 958.17271 A 20 20 0 0 1 38.357422 930.06138 A 20 20 0 0 1 56.986328 922.78404 A 20 20 0 0 1 66.46875 926.93833 L 108.97461 960.94224 L 108.97461 842.55552 A 20 20 0 0 1 128.97461 822.55552 z " />
     <g
-       id="g932" />
+       id="g1594">
+      <g
+         transform="rotate(90,128,924.3622)"
+         id="g842">
+        <path
+           id="path4136-3"
+           style="fill:#68bdff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -4e-05 924.3622 A 128 128 0 0 0 127.99996 1052.3622 A 128 128 0 0 0 255.99996 924.3622 A 128 128 0 0 0 127.99996 796.3622 A 128 128 0 0 0 -4e-05 924.3622 z M 44.99996 939.3622 L 44.99996 909.3622 L 175.20308 909.3622 L 115.99996 850.03017 L 138.83394 827.19618 L 235.99996 924.3622 L 138.83394 1021.5282 L 115.99996 998.69423 L 175.20308 939.3622 L 44.99996 939.3622 z " />
+      </g>
+    </g>
   </g>
 </svg>
